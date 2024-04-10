@@ -1,4 +1,6 @@
 bvenv/
+artifacts/
+.idea/
 artifacts/data_ingestion
 mlruns/
 # Byte-compiled / optimized / DLL files
