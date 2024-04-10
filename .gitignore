@@ -1,5 +1,5 @@
 bvenv/
-artifacts/
+artifacts/data_ingestion
 mlruns/
 # Byte-compiled / optimized / DLL files
 __pycache__/
